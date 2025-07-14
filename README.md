@@ -1,4 +1,4 @@
-# hyperparamter-tuning-and-model-evaluation
+# Hyperparamter Tuning and Model Evaluation
 
 Train multiple machine learning models and evaluate their performance using metrics such as accuracy, precision, recall, and F1-score. 
 Implement hyperparameter tuning techniques like GridSearchCV and RandomizedSearchCV to optimize model parameters. 
