@@ -1,5 +1,5 @@
-# Hyperparamter Tuning and Model Evaluation
+# Customer Segmentation: Model Evaluation & Hyperparameter Tuning
 
-Train multiple machine learning models and evaluate their performance using metrics such as accuracy, precision, recall, and F1-score. 
-Implement hyperparameter tuning techniques like GridSearchCV and RandomizedSearchCV to optimize model parameters. 
-Analyze the results to select the best-performing model.
+## Objective
+Use clustering to derive customer segments and train classification models to predict these segments. 
+Evaluate model performance using multiple metrics and optimize using GridSearchCV or RandomizedSearchCV.
